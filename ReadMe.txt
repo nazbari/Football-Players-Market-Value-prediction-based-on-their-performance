@@ -1,4 +1,4 @@
-Capstone Project ReadMe
+# BrainStation Capstone Project ReadMe
 
 BrainStation Data Science Bootcamp
 
@@ -11,8 +11,7 @@ Email: barinaz2490@gmail.com
 
 Project Description:
 
-My Capstone project is on Predicting the Football Players Market Value based on their on-field performance and finding 
-the factors that determines this value. The transfer market in Football world is considered one of the most competitive and expensive transactional activities in the world. Football club Chelsea spent around € 200 million in 2021. Top clubs spend large sums of money in the hopes of winning matches, Cups and the hearts of millions of fans. So clubs need to be very careful when they do a transaction in the transfer market. This project focuses on predicting the player market value and the factors that affect this value.
+My Capstone project is on Predicting the Football Players Market Value based on their on-field performance and finding the factors that determines this value. The transfer market in Football world is considered one of the most competitive and expensive transactional activities in the world. Football club Chelsea spent around € 200 million in 2021. Top clubs spend large sums of money in the hopes of winning matches, Cups and the hearts of millions of fans. So clubs need to be very careful when they do a transaction in the transfer market. This project focuses on predicting the player market value and the factors that affect this value.
 
 Data has been collected for all players from Europe’s top 5 leagues for 10 years from 2011 to 2021. The leagues are - English Premier League, Italian Serie A, Spanish La Liga, German Bundesliga and French Ligue 1. The datasets have been acquired from 2 different websites:
 • Transfermarkt dataset - containing player information and their Transfer Market Value.
@@ -61,18 +60,3 @@ I have submitted the following files in a zipped folder as part of the Final Cap
 			- fbref-2011.csv
 	iii) market_val_stats.csv 
 		- the final complete and cleaned dataset containing player information, market value, player standard performance statistics and player potential performance statistics.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
