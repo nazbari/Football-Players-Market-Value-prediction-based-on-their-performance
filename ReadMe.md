@@ -1,9 +1,9 @@
-# BrainStation Capstone Project ReadMe
+# BrainStation Capstone Project
 
 BrainStation Data Science Bootcamp
 
-Capstone Project –
-Predicting Football Players Market Value based on their performance
+### Capstone Project –
+### Predicting Football Players Market Value based on their performance
 
 Author: Nazhad Bari
 Email: barinaz2490@gmail.com
